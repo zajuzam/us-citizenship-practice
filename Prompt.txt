@@ -1,0 +1,9 @@
+Develop a web site to practice the
+2025-Civics-Test- BY USCIS
+There are 128 Questions.
+Questions can be found on https://www.uscis.gov/sites/default/files/document/questions-and-answers/2025-Civics-Test-128-Questions-and-Answers.pdf
+I want people to come to this site and practice.
+I can export the questions in a pdf format.
+can you create a site where people can come and practice the answers
+Give me some options to how we can proceed
+Also always write in the end of the Website that This site is developed by Pravda Software LLC
